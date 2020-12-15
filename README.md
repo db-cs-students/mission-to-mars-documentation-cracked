@@ -12,7 +12,7 @@ However, during the coding and pairing of the microbits, it was spearheaded by J
 
 #### Microbits
 
-![sender](unnamed (1) (1).jpg)
+![esfd](unnamename.jpeg)
 
 
 
