@@ -10,6 +10,12 @@ After another failed attempt, we made a box that was sustainable and could last 
 However, during the coding and pairing of the microbits, it was spearheaded by Jackson and Alex. 
 
 
+#### Microbits
+
+![sender](unnamed (1) (1).jpg)
+
+
+
 #### Box 
 
 ![dfgh](hjrgjrg.jpeg)
