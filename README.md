@@ -4,6 +4,9 @@
 
 
 ### Process Overview
+
+
+
 During most of the process involving Tinkercad, Jackson and I did most of the planning and design, going back and forth with ideas and such. In the beginning, we had a box of maximum dimensions. We first printed that, but then realized we needed to cut down on the weight and size, as well as the fact that our box had thick walls, which added to the weight. 
 After another failed attempt, we made a box that was sustainable and could last longer than both combined, which was very stable. Though it took more time to print and shape when compared to our other attempts, it was more effective.
 
@@ -12,8 +15,13 @@ However, during the coding and pairing of the microbits, it was spearheaded by J
 
 #### Microbits
 
-![esfd](unnamename.jpeg)
+![esfd](unnamename1.jpg)
 
+Shown first is the code for our microbit sender. It sets a group, 4, which both of the microbits share. (this can pair them together) as well as tells the microbit which LED to flash (or in the case of the sender, technically none since it is the sender, the receiver will do this), and to always be sending inputs of acceleration upon the Z axis to the receiver, to be able to determine the value when dropped from the balcony. 
+
+![rhgkfhf](unnamename.jpg)
+
+This on the other hand, is the receiver. It tells the microbit to write names and values of the data/inputs it receives when it receives, on a constnat loop, and to flash it upon the microbit.
 
 
 #### Box 
