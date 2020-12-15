@@ -5,7 +5,13 @@
 
 ### Process Overview
 
-![fkdhg](unnamed(2).jpg)
+![fkdhg](flowflow.jpg)
+
+Here is the flow chart for our project. It basically describes how our microbits would send and receive information, and what to do with said information once it was or was not received. If it was, continue and "end" the flow chart. If it doesn't, it should continue an attempt to find data or send to the receiver microbit.
+
+![qjgkvb](boxbox.jpg)
+
+Here is a more or less rough sketch of our second design. As we had just printed our first box which was deemed to be much larger, heavier and thicker than necessary, we tried to come up with a better solution. We even had a "demo" of sorts for our elevated walls to hold the microbit, and the wall to contain the battery pack.
 
 During most of the process involving Tinkercad, Jackson and I did most of the planning and design, going back and forth with ideas and such. In the beginning, we had a box of maximum dimensions. We first printed that, but then realized we needed to cut down on the weight and size, as well as the fact that our box had thick walls, which added to the weight. 
 After another failed attempt, we made a box that was sustainable and could last longer than both combined, which was very stable. Though it took more time to print and shape when compared to our other attempts, it was more effective.
